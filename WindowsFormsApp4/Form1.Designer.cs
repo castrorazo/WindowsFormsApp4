@@ -140,7 +140,7 @@ namespace WindowsFormsApp4
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WindowsFormsApp4.Properties.Resources.UW_Logo_removebg_preview;
-            this.pictureBox1.Location = new System.Drawing.Point(6, 687);
+            this.pictureBox1.Location = new System.Drawing.Point(31, 658);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(6);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(340, 285);
